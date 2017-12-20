@@ -2,6 +2,6 @@
   "sitekey": "6LdC0iQUAAAAAOYmRv34KSLDe-7DmQrUSYJH8eB_",
   "url": "https://www.adidas.com/",
   "mongoDB_URL": "mongodb://127.0.0.1:27017/example",
-  "tokens": 5, //amount of tokens to aim for having in the db
-  "twoC": "" //2captcha key
+  "tokens": 5, /*amount of tokens to aim for having in the db*/
+  "twoC": "" /*2captcha key*/
 }
