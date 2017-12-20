@@ -1,0 +1,26 @@
+{
+  "name": "recaptcha-tokens-ondemand",
+  "version": "1.0.0",
+  "description": "Makes use of 2captcha service to generate and store chosen amount of tokens of a recaptcha based on its sitekey. This allows for instant solving of recaptcha as there will always be fresh tokens available in the database.",
+  "main": "app.js",
+  "dependencies": {
+    "2captcha": "^1.0.11",
+    "deasync": "^0.1.10",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.12.4",
+    "mpromise": "^0.5.5",
+    "request": "^2.79.0",
+    "sync": "^0.2.5",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/justbotrelatedthings",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/justbotrelatedthings/Recaptcha-Tokens-Ondemand"
+}
